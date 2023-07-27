@@ -11,7 +11,7 @@ Technologies Used are:
 Install project dependencies using Maven: mvn install
 
 7. Configuration: Open the application.properties file in the src/main/resources folder.
-8. Configure the MongoDB connection properties according to your MongoDB setup:
+Configure the MongoDB connection properties according to your MongoDB setup:
 
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
