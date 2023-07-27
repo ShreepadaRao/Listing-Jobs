@@ -16,3 +16,4 @@ Configure the MongoDB connection properties according to your MongoDB setup:
 spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
 spring.data.mongodb.database=mydb
+ 
